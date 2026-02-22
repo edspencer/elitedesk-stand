@@ -10,13 +10,19 @@ I run a three-node [Proxmox](https://www.proxmox.com/) cluster on HP EliteDesk 8
 
 ![Three HP EliteDesk Minis stacked horizontally -- the source of the heat problem](photos/stacked-machines.jpeg)
 
+As a short-term hack I arranged the machines in this fashion to improve airflow and aesthetics:
+
 ![The machines were running too hot stacked on top of each other](photos/stacked-machines-run-too-hot.jpeg)
 
-I wanted a stand that would hold all three machines vertically, side by side, with air gaps between them. Something like those [BookArc-style laptop stands](https://www.twelvesouth.com/products/bookarc-for-macbook) -- an elegant arch shape with slots for each machine.
+To make it not terrible though, I wanted a stand that would hold all three machines vertically, side by side, with air gaps between them. Something like those [BookArc-style laptop stands](https://www.twelvesouth.com/products/bookarc-for-macbook) -- an elegant arch shape with slots for each machine. I ended up with this, which is not what I originally described but is in fact a better solution:
+
+![The finished 3D print in black PETG](photos/3d-print.jpeg)
 
 ## How It Was Made: AI-Designed, Start to Finish
 
 This entire project -- from concept to printable STL files -- was done through a conversation with Claude Code. Here's how it went.
+
+By the way, this README was writted by Claude as part of what I prompted it to do, but I did actually read it and although it doesn't write like me, it's actually done a pretty good job here. I added a few sentences of my own here and there.
 
 ### Choosing the Right Tool
 
